@@ -1,0 +1,11 @@
+pandas
+seaborn
+scikit-learn
+xgboost
+numpy
+torch
+missingno
+pingouin
+ISLP
+imblearn
+streamlit
